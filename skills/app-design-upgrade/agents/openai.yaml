@@ -1,0 +1,4 @@
+interface:
+  display_name: "내 앱 디자인 업그레이드"
+  short_description: "앱 디자인 진단과 도구 추천, HTML 시안 비교 및 선택한 디자인 적용"
+  default_prompt: "$app-design-upgrade로 내 앱의 디자인을 진단하고 적합한 개선 방향과 HTML 시안을 보여줘. 실제 앱 적용은 시안을 선택한 뒤 진행해줘."
